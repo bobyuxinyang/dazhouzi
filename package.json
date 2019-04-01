@@ -1,22 +1,23 @@
 {
-  "name": "feizhai",
+  "name": "dazhouzi",
   "version": "1.0.0",
-  "description": "美食节目集合",
+  "description": "大肘子美食笔记",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "node ./scan_all && npx vuepress dev ."
+    "dev": "npx vuepress dev .",
+    "build": "npx vuepress build ."
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bobyuxinyang/feizhai.git"
+    "url": "git+https://github.com/bobyuxinyang/dazhouzi.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bobyuxinyang/feizhai/issues"
+    "url": "https://github.com/bobyuxinyang/dazhouzi/issues"
   },
-  "homepage": "https://github.com/bobyuxinyang/feizhai#readme",
+  "homepage": "https://github.com/bobyuxinyang/dazhouzi#readme",
   "devDependencies": {
     "vuepress": "^0.14.10"
   },
