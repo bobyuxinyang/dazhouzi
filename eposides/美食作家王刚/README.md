@@ -5,17 +5,11 @@
 * <https://weibo.com/u/6288254740>
 * <https://space.bilibili.com/290526283>
 
-## 维护
-
-@bobyuxinyang
-
 ## 剧集
 
 ### 厨师长教你：“口味猪肝”的家常做法，没错，真的就是家常做法
 
-* 链接
-
-  * <https://www.bilibili.com/video/av46051839>
+* <https://www.bilibili.com/video/av46051839>
 
 * 日期
 
@@ -27,9 +21,7 @@
 
 ### 厨师长教你：“如何正确切土豆丝”，家庭必备的硬核小技巧
 
-* 链接
-
-  * <https://www.bilibili.com/video/av46880596>
+* <https://www.bilibili.com/video/av46880596>
 
 * 日期
 
@@ -41,9 +33,7 @@
 
 ### 厨师长教你：“盐烧鲈鱼”的创新做法，做法新颖，味道很赞
 
-* 链接
-
-  * <https://www.bilibili.com/video/av46728388>
+* <https://www.bilibili.com/video/av46728388>
 
 * 日期
 
@@ -55,9 +45,7 @@
 
 ### 厨师长教你：“粉丝蒸花甲”的家常做法，特别适合老人孩子食用
 
-* 链接
-
-  * <https://www.bilibili.com/video/av47373363>
+* <https://www.bilibili.com/video/av47373363>
 
 * 日期
 
@@ -69,9 +57,7 @@
 
 ### 厨师长教你：“蒜蓉粉丝蒸娃娃菜”的家常做法，味道很赞，收藏了
 
-* 链接
-
-  * <https://www.bilibili.com/video/av47750812>
+* <https://www.bilibili.com/video/av47750812>
 
 * 日期
 
@@ -83,9 +69,7 @@
 
 ### 厨师长教你：“风味茄子”的家常做法，外酥里嫩味道很赞，收藏了
 
-* 链接
-
-  * <https://www.bilibili.com/video/av45646434>
+* <https://www.bilibili.com/video/av45646434>
   * <https://weibo.com/tv/v/HjVJ72t3k>
 
 * 日期
@@ -98,9 +82,7 @@
 
 ### 厨师长疑难解答：“土豆切片切丝不均匀”，选择切刀的类型很重要
 
-* 链接
-
-  * <https://www.bilibili.com/video/av46229299>
+* <https://www.bilibili.com/video/av46229299>
 
 * 日期
 

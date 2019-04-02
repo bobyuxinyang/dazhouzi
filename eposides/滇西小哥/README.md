@@ -6,17 +6,12 @@
 * <https://space.bilibili.com/101229184>
 * <http://www.acfun.cn/u/12462562.aspx>
 
-## 维护
-
-@bobyuxinyang
-
 ## 剧集
 
 ### 炸一锅猪皮，做几道江湖小菜
 
-* 链接
-  * <https://weibo.com/tv/v/HmRQr5CUw?fid=1034:4354449708108139>
-  * <https://www.bilibili.com/video/av47484603>
+* <https://weibo.com/tv/v/HmRQr5CUw?fid=1034:4354449708108139>
+* <https://www.bilibili.com/video/av47484603>
 
 * 介绍
 
@@ -30,9 +25,8 @@
 
 ### 摘一背篓玫瑰，做鲜花饼！
 
-* 链接
-  * <https://weibo.com/tv/v/Hm779Efph>
-  * <https://www.mgtv.com/b/327339/5365003.html>
+* <https://weibo.com/tv/v/Hm779Efph>
+* <https://www.mgtv.com/b/327339/5365003.html>
 
 * 介绍
 
@@ -48,8 +42,7 @@
 
 ### 春吃嫩芽，腌制帕贡菜，鲜香酸爽
 
-* 链接
-  * <https://www.bilibili.com/video/av46849254>
+* <https://www.bilibili.com/video/av46849254>
 
 * 介绍
   
@@ -57,8 +50,7 @@
 
 ### 吃一道云南景颇菜——鬼鸡
 
-* 链接
-  * <https://www.bilibili.com/video/av46188568>
+* <https://www.bilibili.com/video/av46188568>
 
 * 介绍
 
@@ -67,8 +59,7 @@
 
 ### 羊奶果——想到名字就酸到流口水的水果
 
-* 链接
-  * <https://www.bilibili.com/video/av45530964>
+* <https://www.bilibili.com/video/av45530964>
 
 * 介绍
 
@@ -77,8 +68,7 @@
 
 ### 把“春天”吃进肚子里，摘点新鲜螃蟹花和尖，做几道小菜
 
-* 链接
-  * <https://www.bilibili.com/video/av44871349>
+* <https://www.bilibili.com/video/av44871349>
 
 * 介绍
 
@@ -86,8 +76,7 @@
 
 ### 元宵节，吃一碗红糖七彩汤圆！
 
-* 链接
-  * <https://www.bilibili.com/video/av44179139>
+* <https://www.bilibili.com/video/av44179139>
 
 * 介绍
 
@@ -95,8 +84,7 @@
 
 ### 吃只烤全羊，结束这个年
 
-* 链接
-  * <https://www.bilibili.com/video/av43671712>
+* <https://www.bilibili.com/video/av43671712>
 
 * 介绍
 
@@ -108,8 +96,7 @@
 
 ### 年夜饭，你们吃的啥？我们吃了大吉大利，团团圆圆，红红火火
 
-* 链接
-  * <https://www.bilibili.com/video/av42663837>
+* <https://www.bilibili.com/video/av42663837>
   
 * 介绍
   
@@ -119,8 +106,7 @@
 
 ### 排骨怎么做能吃上一整年？
 
-* 链接
-  * <https://www.bilibili.com/video/av42169614>
+* <https://www.bilibili.com/video/av42169614>
 
 * 介绍
 
@@ -129,8 +115,7 @@
 
 ### 炼猪油，炸油底肉，提前准备过年菜。肥而不腻油底肉你们吃过吗？
 
-* 链接
-  * <https://www.bilibili.com/video/av41642755>
+* <https://www.bilibili.com/video/av41642755>
 
 * 介绍
   
@@ -141,8 +126,7 @@
 
 ### 烧个猪头，做一道云南过年菜：萝卜干猪头肉
 
-* 链接
-  * <https://www.bilibili.com/video/av40908205>
+* <https://www.bilibili.com/video/av40908205>
 
 * 介绍
 
@@ -151,8 +135,7 @@
 
 ### 砍2000多斤甘蔗，熬了100多斤甘蔗原汁红糖，一家人忙了2天
 
-* 链接
-  * <https://www.bilibili.com/video/av40260098>
+* <https://www.bilibili.com/video/av40260098>
 
 * 介绍
 
@@ -160,8 +143,7 @@
 
 ### 芭蕉叶烹饪的云南菜：包烧
 
-* 链接
-  * <https://www.bilibili.com/video/av39831081>
+* <https://www.bilibili.com/video/av39831081>
 
 * 介绍
 
@@ -169,8 +151,7 @@
 
 ### 做一道云南白族特色菜：凉拌吹猪肝，你们吃过吗？
 
-* 链接
-  * <https://www.bilibili.com/video/av39081244>
+* <https://www.bilibili.com/video/av39081244>
 
 * 介绍
 
@@ -182,8 +163,7 @@
 
 ### 毛豆腐的几种吃法：油炸毛豆腐，蒜苗炒毛豆腐，你们吃过吗？
 
-* 链接
-  * <https://www.bilibili.com/video/av38575071>
+* <https://www.bilibili.com/video/av38575071>
 
 * 介绍
 
@@ -191,8 +171,7 @@
 
 ### 用酱油做主料秘制的辣椒酱你们吃过吗？
 
-* 链接
-  * <https://www.bilibili.com/video/av38015462>
+* <https://www.bilibili.com/video/av38015462>
 
 * 介绍
 
@@ -200,8 +179,7 @@
 
 ### 一种可以当佐料的水果：百香果
 
-* 链接
-  * <https://www.bilibili.com/video/av37478644>
+* <https://www.bilibili.com/video/av37478644>
 
 * 介绍
 
@@ -210,8 +188,7 @@
 
 ### 大树番茄，一种为酸扒菜注入灵魂的食材
 
-* 链接
-  * <https://www.bilibili.com/video/av37160890>
+* <https://www.bilibili.com/video/av37160890>
 
 * 介绍
 
@@ -221,8 +198,7 @@
 
 ### 云南十八怪，过桥米线人人爱
 
-* 链接
-  * <https://www.bilibili.com/video/av36947951>
+* <https://www.bilibili.com/video/av36947951>
 
 * 介绍
 
@@ -232,8 +208,7 @@
 
 ### 冬日里一道暖到心窝子的下饭菜：牛扒呼（pa hu）
 
-* 链接
-  * <https://www.bilibili.com/video/av36453747>
+* <https://www.bilibili.com/video/av36453747>
 
 * 介绍
 
@@ -245,8 +220,7 @@
 
 ### 一颗小豌豆的百变吃法，油炸干栏片，稀豆粉米线，豆粉浆都是美味
 
-* 链接
-  * <https://www.bilibili.com/video/av35971529>
+* <https://www.bilibili.com/video/av35971529>
 
 * 介绍
   
@@ -258,8 +232,7 @@
 
 ### 立冬了，生点儿火，烤点儿肉，喝点儿酒
 
-* 链接
-  * <https://www.bilibili.com/video/av35498085>
+* <https://www.bilibili.com/video/av35498085>
 
 * 介绍
 
@@ -273,8 +246,7 @@
 
 ### 重庆小面，在重庆时每天早上都要整一碗的早餐
 
-* 链接
-  * <https://www.bilibili.com/video/av35430034>
+* <https://www.bilibili.com/video/av35430034>
 
 * 介绍
 
@@ -283,8 +255,7 @@
 
 ### 洛神花，酸甜好吃的“植物红宝石”
 
-* 链接
-  * <https://www.bilibili.com/video/av35142801>
+* <https://www.bilibili.com/video/av35142801>
 
 * 介绍
 
@@ -292,8 +263,7 @@
 
 ### 柿干，泡柿，捂柿，你最喜欢吃那种？
 
-* 链接
-  * <https://www.bilibili.com/video/av35018452>
+* <https://www.bilibili.com/video/av35018452>
 
 * 介绍
 
@@ -305,8 +275,7 @@
 
 ### 这种植物被称为“平民燕窝”，我们叫它皂角米，用来煮皂角米羹
 
-* 链接
-  * <https://www.bilibili.com/video/av34530857>
+* <https://www.bilibili.com/video/av34530857>
 
 * 介绍
 
@@ -314,8 +283,7 @@
 
 ### 金秋十月，稻花鱼肥，煮一锅酸木瓜鱼
 
-* 链接
-  * <https://www.bilibili.com/video/av34396437>
+* <https://www.bilibili.com/video/av34396437>
 
 * 介绍
 
@@ -324,8 +292,7 @@
 
 ### 木瓜成熟后是水果，生的时候可做菜，凉拌木瓜丝你吃过吗？
 
-* 链接
-  * <https://www.bilibili.com/video/av34042708>
+* <https://www.bilibili.com/video/av34042708>
   
 * 介绍
 
@@ -335,8 +302,7 @@
 
 ### 摘些白果，炖一锅秋季养生汤：白果炖猪小肠
 
-* 链接
-  * <https://www.bilibili.com/video/av33556106>
+* <https://www.bilibili.com/video/av33556106>
   
 * 介绍
 
@@ -347,8 +313,7 @@
 
 ### 和爷爷收完豆子，磨了些做爷爷喜欢的 红糖甜豆腐花，一家人吃的很满足
 
-* 链接
-  * <https://www.bilibili.com/video/av14677927>
+* <https://www.bilibili.com/video/av14677927>
 
 * 介绍
 

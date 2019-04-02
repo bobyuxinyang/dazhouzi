@@ -4,17 +4,11 @@
 
 * <https://v.qq.com/detail/l/lvzbx6z9izxv832.html>
 
-## 维护
-
-@bobyuxinyang
-
 ## 剧集
 
 ### 第1集：牛肉丸
 
-* 链接
-
-  * <https://v.qq.com/x/cover/lvzbx6z9izxv832/a00296vevnw.html>
+* <https://v.qq.com/x/cover/lvzbx6z9izxv832/a00296vevnw.html>
 
 * 关键词
 

@@ -7,17 +7,11 @@
 * <http://v.qq.com/detail/5/52039.html>
 * <http://www.iqiyi.com/lib/m_214192214.html>
 
-## 维护
-
-@bobyuxinyang
-
 ## 剧集
 
 ### 电饭煲鸡翅饭
 
-* 链接
-
-  * <https://v.qq.com/x/cover/c5slzcqboihc4ft/n0030y7koh3.html?>
+* <https://v.qq.com/x/cover/c5slzcqboihc4ft/n0030y7koh3.html?>
 
 * 关键词
 
